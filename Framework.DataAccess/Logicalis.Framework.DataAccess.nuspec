@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Logicalis.Framework.DataAccess</id>
+    <version>1.0.31</version>
+    <title>Logicalis DataAccess</title>
+    <authors>Gerardo Ruggiero</authors>
+    <owners>Logicalis</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Libreria que contiene contratos base para los proyectos de acceso a datos</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019</copyright>
+  </metadata>
+</package>

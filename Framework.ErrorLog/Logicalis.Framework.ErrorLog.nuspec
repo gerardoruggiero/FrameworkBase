@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Logicalis.ErrorLog</id>
+    <version>1.0.30</version>
+    <title>Logicalis.ErrorLog</title>
+    <authors>Logicalis</authors>
+    <owners>Gerardo ruggiero</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Libreria de generación de log automatica</description>
+    <copyright>Copyright 2019</copyright>
+  </metadata>
+</package>

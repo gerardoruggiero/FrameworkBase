@@ -1,0 +1,1 @@
+nuget pack Logicalis.Framework.ContractBase.csproj -IncludeReferencedProjects -Version 1.0.88

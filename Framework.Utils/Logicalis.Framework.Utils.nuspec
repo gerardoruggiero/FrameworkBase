@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Logicalis.Framework.Utils</id>
+    <version>1.0.30</version>
+    <title>Logicalis.Utils</title>
+    <authors>Logicalis</authors>
+    <owners>Gerardo ruggiero</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Libreria con herramientas de seguridad, como creacion de token y validador de sesiones de MVC</description>
+    <copyright>Copyright 2019</copyright>
+  </metadata>
+</package>

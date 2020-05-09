@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Logicalis.Framework.Middleware</id>
+    <version>1.0.30</version>
+    <title>Logicalis.Middleware</title>
+    <authors>Logicalis</authors>
+    <owners>Gerardo ruggiero</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Middleware de Logicalis</description>
+    <copyright>Copyright 2019</copyright>
+  </metadata>
+</package>

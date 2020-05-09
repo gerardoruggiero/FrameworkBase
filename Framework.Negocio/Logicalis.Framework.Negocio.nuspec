@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Logicalis.Base.Negocio</id>
+    <version>1.0.31</version>
+    <title>Logicalis Negocio Base</title>
+    <authors>Gerardo Ruggiero</authors>
+    <owners>Logicalis</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Libreria que contiene la logica básica de la capa de negocios, conectada a un contrato de repositorios</description>
+    <releaseNotes>Primera versión de la libreria BaseLayers.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+  </metadata>
+</package>

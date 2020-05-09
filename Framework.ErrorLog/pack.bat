@@ -1,0 +1,1 @@
+nuget pack Logicalis.Framework.ErrorLog.csproj -IncludeReferencedProjects

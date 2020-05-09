@@ -1,0 +1,1 @@
+nuget pack Logicalis.Framework.BaseLayers.csproj -IncludeReferencedProjects

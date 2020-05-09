@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Logicalis.Framework.Web.Models</id>
+    <version>1.0.40</version>
+    <title>Logicalis Models Base</title>
+    <authors>Gerardo Ruggiero</authors>
+    <owners>Logicalis</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Models base para MVC</description>
+    <releaseNotes>Primera version de models</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+  </metadata>
+</package>

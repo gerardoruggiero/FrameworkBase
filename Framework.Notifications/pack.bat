@@ -1,0 +1,1 @@
+nuget pack Logicalis.Framework.Notifications.csproj -IncludeReferencedProjects
