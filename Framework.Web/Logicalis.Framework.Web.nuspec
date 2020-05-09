@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Logicalis.Framework.Web</id>
+    <version>1.0.42</version>
+    <title>Logicalis.Web</title>
+    <authors>Logicalis</authors>
+    <owners>Gerardo ruggiero</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Se agrega el LoginControllerBase para hacer el login en todas las aplicaciones de la misma forma</description>
+    <copyright>Copyright 2019</copyright>
+  </metadata>
+</package>
